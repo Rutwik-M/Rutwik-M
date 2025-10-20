@@ -50,8 +50,6 @@ Here are a few of the key projects I've built, from AI-powered SaaS to published
       <p>A full-stack, AI-powered web application that generates interactive flashcards from user notes, PDFs, and web articles using <strong>Google's Gemini AI</strong> to enhance learning efficiency.</p>
       <div align="center">
         <a href="https://www.note-deck.app/" target="_blank"><b>View Live App &rarr;</b></a>
-        &nbsp;&nbsp;&bull;&nbsp;&nbsp;
-        <a href="https://github.com/Rutwik-M/NoteDeck" target="_blank"><b>View Repo &rarr;</b></a>
       </div>
     </td>
     <td width="50%" valign="top" align="center">
@@ -81,8 +79,6 @@ Here are a few of the key projects I've built, from AI-powered SaaS to published
       <p>A fully responsive ISP website with a custom <strong>Flask & PostgreSQL</strong> backend and an intuitive admin dashboard for managing users and plans.</p>
       <div align="center">
         <a href="https://broadbanddigital.in/" target="_blank"><b>View Live Site &rarr;</b></a>
-        &nbsp;&nbsp;&bull;&nbsp;&nbsp;
-        <a href="https://github.com/Rutwik-M/Broadband-Digital" target="_blank"><b>View Repo &rarr;</b></a>
       </div>
     </td>
     <td width="50%" valign="top" align="center">
