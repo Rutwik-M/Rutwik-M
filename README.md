@@ -17,7 +17,7 @@
   <a href="https://rutwik-m.is-a.dev/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-rutwik--m.is--a.dev-FFD700?style=for-the-badge&logo=Arrow&logoColor=black" alt="Portfolio"/>
   </a>
-  <a href="static/resume/Rutwik's_Resume.pdf" target="_blank"> <img src="https://img.shields.io/badge/Download-My_Resume-black?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Download Resume"/>
+  <a href="https://rutwik-m.is-a.dev/static/resume/Rutwik's_Resume.pdf" target="_blank"> <img src="https://img.shields.io/badge/Download-My_Resume-black?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Download Resume"/>
   </a>
   <a href="https://www.linkedin.com/in/rutwik-muley-b20707208" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Rutwik_Muley-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
