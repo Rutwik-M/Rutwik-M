@@ -82,6 +82,20 @@ Here are a few of the key projects I've built, from AI-powered SaaS to published
       </div>
     </td>
     <td width="50%" valign="top" align="center">
+      <h3 align="center">Datta Mandir Beed Website</h3>
+      <br>
+      <a href="https://www.dattamandirbeed.org/" target="_blank">
+        <img height="220" src="https://www.dattamandirbeed.org/images/new-logo1.webp" alt="Broadband Digital Project Image"/>
+      </a>
+      <br><br>
+      <p>A fully responsive ISP website with a custom <strong>Flask & PostgreSQL</strong> backend and an intuitive admin dashboard for managing users and plans.</p>
+      <div align="center">
+        <a href="https://www.dattamandirbeed.org/" target="_blank"><b>View Live Site &rarr;</b></a>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" align="center">
       <h3 align="center">Endless Cube Runner</h3>
       <br>
       <a href="https://ruts558.itch.io/endless-cube-runner" target="_blank">
