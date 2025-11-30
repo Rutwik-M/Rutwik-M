@@ -88,7 +88,7 @@ Here are a few of the key projects I've built, from AI-powered SaaS to published
         <img height="220" src="https://www.dattamandirbeed.org/images/new-logo1.webp" alt="Broadband Digital Project Image"/>
       </a>
       <br><br>
-      <p>A fully responsive ISP website with a custom <strong>Flask & PostgreSQL</strong> backend and an intuitive admin dashboard for managing users and plans.</p>
+      <p>A responsive, static website for Shree Datta Mandir, Beed, serving as a digital hub for devotees. It features daily Panchang calculations, online donation integration, festival updates, and temple history, built with HTML5, JavaScript, and Tailwind CSS.</p>
       <div align="center">
         <a href="https://www.dattamandirbeed.org/" target="_blank"><b>View Live Site &rarr;</b></a>
       </div>
