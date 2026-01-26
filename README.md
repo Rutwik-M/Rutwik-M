@@ -178,7 +178,7 @@ These are the core technologies I work with, from AI to deployment.
       <div align="center">
         <img src="https://ghchart.rshah.org/Rutwik-M" alt="Rutwik's GitHub Contribution Graph"/>
         <br><br>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rutwik-M&layout=compact&theme=radical&hide_border=true&count_private=true" alt="Top Languages"/>
+        <img src="https://github-readme-stats-sigma-vert-12.vercel.app/api/top-langs/?username=rutwik-m&layout=compact&count_private=true" alt="Top Languages"/>
         <br><br>
         <p align="center" style="font-size: 12px;">
           <i>Note: My commit/PR stats are not public as my most significant work is in private repositories. My contribution graph reflects my full activity.</i>
